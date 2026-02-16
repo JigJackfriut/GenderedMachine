@@ -11,4 +11,3 @@ The site does not collect or analyze real user data.
 
 Outputs do not represent a user’s real identity or gender.
 
-The goal is critical literacy — not prediction or profiling.
